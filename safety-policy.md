@@ -18,7 +18,7 @@ Roufia ensures:
 - No unauthorized third-party access.
 - Immediate action against policy violations.
 
-For more details, please visit our official website.
+For more details, please visit our official application.
 
 **Contact Us:**  
 Email: **roufia.company@gmail.com**  
